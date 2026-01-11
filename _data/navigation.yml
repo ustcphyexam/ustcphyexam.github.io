@@ -20,8 +20,8 @@ main:
   - title: "天文/核物理"
     url: /AstroNuc/
     
-  - title: "量子/光学"
-    url: /QuantOptic/
+  - title: "量子/原分/光学"
+    url: /QuantAMOOp/
         
   - title: "数学通修"
     url: /Math/

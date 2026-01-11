@@ -13,9 +13,9 @@ title                    : "USTC物理课程往年试卷"
 title_separator          : "-"
 name                     : &name "USTC物理课程试卷"
 description              : &description "我们的征途也是星辰大海！"
-url                      : https://ustcmathexam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ustcphyexam.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+repository               : "https://github.com/ustcphyexam/ustcphyexam.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,13 @@ author:
   # Biographic information
   avatar           : "USTCSMS.png"
   name             : "USTC PHYSICS EXAM"
-  bio              : "我们的征途也是星辰大海！"
+  bio              : "我们的征途也是星辰大海！(感谢友站USTC数学课程往年试卷)"
   location         : "中国科学技术大学"
   email            : "ustcphyexam@163.com" 
+  links:
+    - label: "USTC数学课程往年试卷"
+      icon: "fas fa-fw fa-globe"
+      url: "https://ustcmathexam.github.io/"
 
 
 # Publication Category - The following the list of publication categories and their headings
