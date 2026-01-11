@@ -1,0 +1,30 @@
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+#
+# NOTE that only one of the CV options should be selected, the first is for the
+#      Markdown formatted page while the second is generated using JSON.
+
+main:
+  - title: "普通物理"
+    url: /JuniorpPhy/
+
+  - title: "四大力学"
+    url: /SeniorPhy/    
+
+  - title: "理论/凝聚态"
+    url: /ThCond/    
+
+  - title: "天文/核物理"
+    url: /AstroNuc/
+    
+  - title: "量子/光学"
+    url: /QuantOptic/
+        
+  - title: "数学通修"
+    url: /Math/
+  
+  - title: "招生/资格考"
+    url: /Entrance/
