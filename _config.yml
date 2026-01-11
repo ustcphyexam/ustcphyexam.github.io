@@ -22,9 +22,9 @@ repository               : "https://github.com/ustcphyexam/ustcphyexam.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "USTCSMS.png"
+  avatar           : "ustcblack.png"
   name             : "USTC PHYSICS EXAM"
-  bio              : "我们的征途也是星辰大海！(感谢友站USTC数学课程往年试卷)"
+  bio              : "我们的征途也是星辰大海！(致敬友站USTC数学课程往年试卷)"
   location         : "中国科学技术大学"
   email            : "ustcphyexam@163.com" 
   links:
