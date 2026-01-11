@@ -9,21 +9,21 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|备注|
 |:----:|:------------:|:------------:|:------------:|
-|2024秋| [袁业飞第一次 (A)](../USTC/24SpTMAMidYYF1.pdf)、[潘海俊 (A)](../USTC/24SpTMAMidPHJ.pdf) | [潘海俊 (A)](../USTC/24SpTMAFinalPHJ.pdf) | 期末考试四、五题为公选题 |
+|2024秋| [袁业飞第一次 (A)](../USTC/24FaTMAMidYYF1.pdf)、[潘海俊 (A)](../USTC/24FaTMAMidPHJ.pdf) | [潘海俊 (A)](../USTC/24FaTMAFinalPHJ.pdf) | 期末考试四、五题为公选题 |
 |2025秋| 暂无 | 暂无 |  |
 
 ## 电动力学
 
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
-|2024秋| 无 | [2024秋 (A)](../USTC/24SpEDAFinal.pdf) | 刘子奚 |
+|2024秋| 无 | [2024秋 (A)](../USTC/24FaEDAFinal.pdf) | 刘子奚 |
 |2025春| 暂无 | 暂无 |  |
 
 ## 量子力学
 
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
-|2024秋| [石名俊 (A)](../USTC/24SpQMAMidSMJ.pdf)、[杨焕雄 (A)](../USTC/24SpQMAMidYHX.pdf) | [石名俊 (A)](../USTC/24SpQMAFinalSMJ.pdf) |  |
+|2024秋| [石名俊 (A)](../USTC/24FaQMAMidSMJ.pdf)、[杨焕雄 (A)](../USTC/24FaQMAMidYHX.pdf) | [石名俊 (A)](../USTC/24FaQMAFinalSMJ.pdf) |  |
 |2025秋| 暂无 | 暂无 |  |
 
 

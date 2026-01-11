@@ -18,6 +18,7 @@ layout: single  # 单栏布局
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
 |2024春| 暂无 | [2024春 (A)](../USTC/24SpThermAFinal.pdf) |  |
+|2025春| 暂无 | [2025春 (A)](../USTC/25SpThermAFinal.pdf)、[2025春 (B)](../USTC/25SpThermBFinal.pdf) |  |
 
 
 ## 电磁学
@@ -25,12 +26,15 @@ layout: single  # 单栏布局
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
 |2024春| [叶邦角 (H)](../USTC/24SpEMHMid.pdf) | [叶邦角 (H)](../USTC/24SpEMHFinal.pdf) |  |
+|2024春| [叶邦角 (H)](../USTC/25SpEMHMid.pdf) | [叶邦角 (H)](../USTC/25SpEMHFinal.pdf) |  |
 
 
 ## 光学
 
 |年份|期末考试|授课教师|
 |:----:|:------------:|:------------:|
+|2021秋| [2021秋 (A)](../USTC/21FaOpticsAfinal.pdf) |  |
+|2022秋| [2022秋 (A)](../USTC/22FaOpticsAfinal.pdf) |  |
 |2023秋| [2023秋 (A)](../USTC/23FaOpticsAfinal.pdf) |  |
 |2024秋| [2024秋 (A)](../USTC/24FaOpticsAfinal.pdf) |  |
 
