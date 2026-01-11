@@ -25,14 +25,14 @@ redirect_from:
 致谢名单
 ======
 
-本页面的试卷PDF源文件由章俊彦学长与我们交接时提供，其它信息则是根据教务系统和评课社区获得。
+本页面的试卷PDF源文件由同学投稿、施耀炜学长的[coursedata](https://ustcguide.gitbook.io/coursedata)、教务系统和评课社区获得。
 
-以下名单的排序按照本科入学年级+姓氏首字母（若为外校考入科大的研究生，则默认是您的入学年份减去4）。请您投稿时附带注明您的姓名、年级，除非您希望匿名投稿。
+以下名单的排序按照本科入学年级+姓氏首字母（入学年级默认本科入学年级）。请您投稿时附带注明您的姓名、年级，除非您希望匿名投稿。
 
 本网站试卷的贡献者有：（如有年级标注错误，请您邮件联系我们）
 
-*此处暂未更新*
+> *此处暂未更新*
 
 <hr>
 
-<a href="https://info.flagcounter.com/WDFG"><img src="https://s01.flagcounter.com/count2/WDFG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_4/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/WDFG"><img src="https://s01.flagcounter.com/count2/WDFG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_4/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
