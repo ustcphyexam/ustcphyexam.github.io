@@ -35,7 +35,10 @@ redirect_from:
 
 > *此处暂未更新*
 
-<!-- 2023: 于洪飞
+<!-- 
+USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan)
+
+2023: 于洪飞
 
 2024: 黎奉熙
 
