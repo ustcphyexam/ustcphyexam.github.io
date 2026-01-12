@@ -6,11 +6,16 @@ layout: single  # 单栏布局
 
 ## 力学
 
+注：本条目包含一些手写版试卷，如果您有排版好的试卷或自愿排版，欢迎您通过[发送到邮箱](ustcphyexam@163.com)共享资源！
 
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
+|2020秋| [向守平 (A)](../USTC/20FaMechAMidXSP.pdf) | 暂无 |  |
+|2021秋| [未知老师](../USTC/21FaMechAMid.pdf) | 暂无 |  |
+|2023秋| [未知老师](../USTC/23FaMechAMid.pdf) | 暂无 |  |
 |2023秋| 暂无 | [2023秋 (A)&(H)](../USTC/23FaMechAFinal.pdf) |  |
-|2024秋| 暂无 | [2024秋 (A)&(H)](../USTC/24FaMechAfinal.pdf) |  |
+|2024秋| [力学 A(L) 期中卷I](../USTC/24FaMechALMid1.pdf)、[力学 A(L) 期中卷II](../USTC/24FaMechALMid2.pdf)、[刘衍文 (H) 期中卷](../USTC/24FaMechHMid.pdf) | [2024秋 (A)&(H)](../USTC/24FaMechAfinal.pdf) |  |
+|2025秋| [刘衍文 (H)](../USTC/24FaMechHMid.pdf) | 暂无 |  |
 
 
 ## 热学
@@ -42,7 +47,7 @@ layout: single  # 单栏布局
 
 |年份|考试|授课教师|
 |:----:|:------------:|:------------:|
-|2025春| [2025春A](../USTC/25SpAtomAFinal.pdf) |  |
+|2025春| [2025春 (A)](../USTC/25SpAtomAFinal.pdf) |  |
 
 
 ## 电子技术基础/电子线路
