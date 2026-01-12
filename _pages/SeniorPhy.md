@@ -9,6 +9,12 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|备注|
 |:----:|:------------:|:------------:|:------------:|
+|2020年前| [19秋朱界杰 (A)](../USTC/19FaTMAMidZJJ.pdf)、 [朱界杰样卷 (A)](../USTC/SampleTMAMidZJJ.pdf)  | [18秋潘海俊 (A)](../USTC/18FaTMAFinalPHJ.pdf)、[19秋袁业飞 (A)](../USTC/19FaTMAFinalYYC.pdf)、 [朱界杰样卷 (A)](../USTC/SampleTMAFinalZJJ.pdf) | |
+|2020秋| [袁业飞第一次 (A)](../USTC/20FaTMAMidYYF1.pdf) | [袁业飞 (A)](../USTC/20FaTMAFinalYYF.pdf)、[朱界杰 (A)](../USTC/20FaTMAFinalZJJ.pdf) |  |
+|2021秋| [袁业飞第一次 (A)](../USTC/21FaTMAMidYYF1.pdf)、[袁业飞第二次 (A)](../USTC/21FaTMAMidYYF2.pdf) | [李毅自命题部分 (A)](../USTC/21FaTMAFinalLY.pdf) |  |
+|2022秋| 暂无 | 暂无 |  |
+|2023春| 暂无 | [2023春 (A)](../USTC/23SpTMAFinalCLM.pdf) | 曹利明 |
+|2023秋| 暂无 | 暂无 |  |
 |2024秋| [袁业飞第一次 (A)](../USTC/24FaTMAMidYYF1.pdf)、[潘海俊 (A)](../USTC/24FaTMAMidPHJ.pdf) | [潘海俊 (A)](../USTC/24FaTMAFinalPHJ.pdf) | 期末考试四、五题为公选题 |
 |2025秋| 暂无 | 暂无 |  |
 
