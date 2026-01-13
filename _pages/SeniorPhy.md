@@ -43,9 +43,9 @@ layout: single  # 单栏布局
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
 |2020秋| 暂无 | 暂无 |
-|2021秋| 暂无 | 暂无 |
+|2021秋| 暂无 | [杨焕雄 (A)](../USTC/21FaQMAFinalYHX.pdf) |
 |2022秋| 暂无 | [石名俊 (A)](../USTC/22FaQMAFinalSMJ.pdf) |
-|2023秋| 暂无 | [石名俊 (A)](../USTC/23FaQMAFinalSMJ.pdf) |
+|2023秋| 暂无 | [石名俊 (A)](../USTC/23FaQMAFinalSMJ.pdf)、[杨焕雄 (A)](../USTC/23FaQMAFinalYHX.pdf) |
 |2024秋| [石名俊 (A)](../USTC/24FaQMAMidSMJ.pdf)、[杨焕雄 (A)](../USTC/24FaQMAMidYHX.pdf) | [石名俊 (A)](../USTC/24FaQMAFinalSMJ.pdf) |
 |2025秋| 暂无 | [石名俊 (A)](../USTC/25FaQMAFinalSMJ.pdf)、 [姚星灿 (A)](../USTC/25FaQMAFinalYXC.pdf) |
 
