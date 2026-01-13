@@ -59,7 +59,7 @@ layout: single  # 单栏布局
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
 |2020年前| [17春 (A)](../USTC/17SpTDAMid.pdf)、[18春 (A)](../USTC/18SpTDAMid.pdf)、[19春 (A)](../USTC/19SpTDAMid.pdf) | [16春 (A)](../USTC/16SpTDAFinal.pdf)、[17春 (A)](../USTC/17SpTDAFinal.pdf)、[18春 (A)](../USTC/18SpTDAFinal.pdf)、[19春 (A)](../USTC/19SpTDAFinal.pdf) |
-|2020春| 暂无 | [2020春期末 (A)](../USTC/20SpTDAFinal.pdf) |  |
+|2020春| 暂无 | [2020春期末 (A)](../USTC/20SpTDAFinal.pdf) |
 |2021春| [2021春期中 (A)](../USTC/21SpTDAMid.pdf) | [2021春期末 (A)](../USTC/21SpTDAFinal.pdf) |
 |2022春| [2022春期中 (A)](../USTC/22SpTDAMid.pdf) | [2022春期末 (A)](../USTC/22SpTDAFinal.pdf) |
 |2023春| [2023春期中 (A)](../USTC/23SpTDAMid.pdf) | [2023春期末 (A)](../USTC/23SpTDAFinal.pdf) |
