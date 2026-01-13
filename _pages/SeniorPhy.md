@@ -29,7 +29,7 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
-|2020年前| 暂无 | [14春潘海俊 (A)](../USTC/14SpEDAFinalPHJ.pdf)、[15春潘海俊 (A)](../USTC/15SpEDAFinalPHJ.pdf)、[16春潘海俊 (A)](../USTC/16SpEDAFinalPHJ.pdf)、[17春潘海俊 (A)](../USTC/17SpEDAFinalPHJ.pdf) |  |
+|2020年前| [16春核院 (A)](../USTC/16SpEDAFinalPHJ.pdf) | [14春潘海俊 (A)](../USTC/14SpEDAFinalPHJ.pdf)、[15春潘海俊 (A)](../USTC/15SpEDAFinalPHJ.pdf)、[16春潘海俊 (A)](../USTC/16SpEDAFinalPHJ.pdf)、[17春潘海俊 (A)](../USTC/17SpEDAFinalPHJ.pdf) |  |
 |2020春| 暂无 | [未知老师 (A)](../USTC/20SpEDAFinal.pdf)、[王少杰 (A)](../USTC/20SpEDAFinalWSJ.pdf)、[杨焕雄 (A)](../USTC/20SpEDAFinalYHX.pdf) |  |
 |2021春| 暂无 | 暂无 |  |
 |2022春| 暂无 | 暂无 |  |
