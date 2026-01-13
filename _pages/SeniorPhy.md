@@ -18,7 +18,7 @@ layout: single  # 单栏布局
 |2020秋| [袁业飞第一次 (A)](../USTC/20FaTMAMidYYF1.pdf) | [袁业飞 (A)](../USTC/20FaTMAFinalYYF.pdf)、[朱界杰 (A)](../USTC/20FaTMAFinalZJJ.pdf) |
 |2021秋| [袁业飞第一次 (A)](../USTC/21FaTMAMidYYF1.pdf)、[袁业飞第二次 (A)](../USTC/21FaTMAMidYYF2.pdf) | [李毅自命题部分 (A)](../USTC/21FaTMAFinalLY.pdf) |
 |2022秋| 暂无 | 暂无 |
-|2023春| 暂无 | [曹利明 (A)](../USTC/23SpTMAFinalCLM.pdf) |  |
+|2023春| 暂无 | [曹利明 (A)](../USTC/23SpTMAFinalCLM.pdf) |
 |2023秋| 暂无 | 暂无 |
 |2024秋| [袁业飞第一次 (A)](../USTC/24FaTMAMidYYF1.pdf)、[潘海俊 (A)](../USTC/24FaTMAMidPHJ.pdf) | [潘海俊 (A)](../USTC/24FaTMAFinalPHJ.pdf) |
 |2025秋| 暂无 | 暂无 |
