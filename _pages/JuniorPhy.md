@@ -24,7 +24,7 @@ layout: single  # 单栏布局
 |:----:|:------------:|:------------:|:------------:|
 |2020春| 暂无 | 暂无 |  |
 |2021春| 暂无 | 暂无 |  |
-|2021秋| 暂无 | [2021秋 (B)](../USTC/21FaEMBFinal.pdf)、[2021秋 (C)](../USTC/21FaEMCFinal.pdf) |  |
+|2021秋| 暂无 | 暂无 |  |
 |2022春| 暂无 | 暂无 |  |
 |2023春| 暂无 | 暂无 |  |
 |2024春| 暂无 | [2024春 (A)](../USTC/24SpThermAFinal.pdf) |  |
@@ -48,7 +48,7 @@ layout: single  # 单栏布局
 
 |年份|期末考试|授课教师|
 |:----:|:------------:|:------------:|
-|2020秋| [2021秋 (A)](../USTC/21FaOpticsAfinal.pdf) |  |
+|2020秋| 暂无 |  |
 |2021秋| [2021秋 (A)](../USTC/21FaOpticsAfinal.pdf) |  |
 |2022秋| [2022秋 (A)](../USTC/22FaOpticsAfinal.pdf) |  |
 |2023秋| [2023秋 (A)](../USTC/23FaOpticsAfinal.pdf) |  |
@@ -59,7 +59,7 @@ layout: single  # 单栏布局
 
 |年份|考试|授课教师|
 |:----:|:------------:|:------------:|
-|2020年前| [2016春 (A)](../USTC/16SpAtomAFinal.pdf)、[2018春 (A)](../USTC/18SpAtomAFinal.pdf) ｜ ｜
+|2020年前| [2016春 (A)](../USTC/16SpAtomAFinal.pdf)、[2018春 (A)](../USTC/18SpAtomAFinal.pdf) | |
 |2020春| 暂无 |  |
 |2021春| 暂无 |  |
 |2022春| [2022春 (A)](../USTC/22SpAtomAFinal.pdf) |  |

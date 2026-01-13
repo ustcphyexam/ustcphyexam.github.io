@@ -30,7 +30,7 @@ layout: single  # 单栏布局
 |年份|期中考试|期末考试|授课教师|
 |:----:|:------------:|:------------:|:------------:|
 |2024秋| [石名俊 (A)](../USTC/24FaQMAMidSMJ.pdf)、[杨焕雄 (A)](../USTC/24FaQMAMidYHX.pdf) | [石名俊 (A)](../USTC/24FaQMAFinalSMJ.pdf) |  |
-|2025秋| 暂无 | 暂无 |  |
+|2025秋| 暂无 | [石名俊 (A)](../USTC/25FaQMAFinalSMJ.pdf)、 [姚星灿 (A)](../USTC/25FaQMAFinalYXC.pdf) |  |
 
 
 ## 热力学与统计物理
