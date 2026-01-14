@@ -31,11 +31,8 @@ redirect_from:
 
 以下名单的排序按照本科入学年级+姓氏首字母（入学年级默认本科入学年级）. 请您投稿时附带注明您的姓名、年级，除非您希望匿名投稿. 
 
-本网站试卷的贡献者有：（如有年级标注错误，请您邮件联系我们）
+本网站试卷的贡献者有：
 
-> *此处暂未更新*
-
-<!-- 
 USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan)
 
 网站与社交媒体：[评课社区](https://icourse.club)、QQ中的各类科大学习交流群（此处泛指）
@@ -44,7 +41,9 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 
 2024: 黎奉熙
 
-2025:  肖祖扬、李清臣-->
+2025: 肖祖扬、李清臣、易林轩
+
+*贡献名单并不完整，如果您对历年真题做出贡献欢迎联系[邮箱](mailto:ustcphyexam@163.com)，我们乐意将您加入贡献者名单.*
 
 <hr>
 
