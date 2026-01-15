@@ -25,7 +25,7 @@ layout: single  # 单栏布局
 |2020春| 暂无 | 暂无 |
 |2021春| 暂无 | 暂无 |
 |2021秋| 暂无 | 暂无 |
-|2022春| 暂无 | 暂无 |
+|2022春| 暂无 | [2022春 (A)](../USTC/22SpThermAFinal.pdf) |
 |2023春| 暂无 | 暂无 |
 |2024春| 暂无 | [2024春 (A)](../USTC/24SpThermAFinal.pdf) |
 |2025春| 暂无 | [2025春 (A)](../USTC/25SpThermAFinal.pdf)、[2025春 (B)](../USTC/25SpThermBFinal.pdf) |
@@ -35,6 +35,7 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
+|2020年前| 暂无 | [17春公共部分 (A)](../USTC/17SpEMAFinal.pdf)、[18春公共部分 (A)](../USTC/18SpEMAFinal.pdf) |
 |2020春| 暂无 | [2020春 (A)](../USTC/20SpEMAFinal.pdf)  |
 |2021春| [2021春 (A)](../USTC/21SpEMAMid.pdf) | 暂无 |
 |2022春| 暂无 | 暂无 |
@@ -67,6 +68,8 @@ layout: single  # 单栏布局
 |2024春| 暂无 |
 |2025春| [2025春 (A)](../USTC/25SpAtomAFinal.pdf) |
 
+[原子物理上古密卷](../USTC/AtomAFinal.pdf)
+
 
 ## 电子技术基础/电子线路
  
@@ -78,6 +81,10 @@ layout: single  # 单栏布局
 |2023春| 暂无 |
 |2024春| 暂无 |
 |2025春| 暂无 |
+
+[电子技术基础上古密卷1](../USTC/FElecFinal1.pdf)
+
+[电子技术基础上古密卷2](../USTC/FElecFinal2.pdf)
 
 ## 数字电路
 

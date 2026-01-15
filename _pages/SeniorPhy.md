@@ -40,8 +40,11 @@ layout: single  # 单栏布局
 
 ## 量子力学
 
+注：2020年前的未知老师疑似都是石名俊的试卷.
+
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
+|2020年前| [14秋未知老师 (A)](../USTC/14FaQMAMid.pdf)、[15秋未知老师1 (A)](../USTC/15FaQMAMid1.pdf)、[15秋未知老师2 (A)](../USTC/15FaQMAMid2.pdf)、[16秋未知老师 (A)](../USTC/16FaQMAMid.pdf)、[17秋未知老师](../USTC/17FaQMAMid.pdf)、[18秋石名俊 (A)](../USTC/18FaQMAMidSMJ.pdf)  |   |
 |2020秋| 暂无 | 暂无 |
 |2021秋| 暂无 | [杨焕雄 (A)](../USTC/21FaQMAFinalYHX.pdf) |
 |2022秋| 暂无 | [石名俊 (A)](../USTC/22FaQMAFinalSMJ.pdf) |
