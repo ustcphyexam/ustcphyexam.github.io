@@ -40,8 +40,6 @@ layout: single  # 单栏布局
 
 ## 量子力学
 
-注：2020年前的未知老师疑似都是石名俊的试卷.
-
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
 |2020年前| [14秋石名俊 (A)](../USTC/14FaQMAMidSMJ.pdf)、[15秋石名俊1 (A)](../USTC/15FaQMAMidSMJ1.pdf)、[15秋石名俊2 (A)](../USTC/15FaQMAMidSMJ2.pdf)、[16秋石名俊 (A)](../USTC/16FaQMAMidSMJ.pdf)、[17秋石名俊 (A)](../USTC/17FaQMAMidSMJ.pdf)、[18秋石名俊 (A)](../USTC/18FaQMAMidSMJ.pdf)  | [12秋石名俊 (A)](../USTC/12FaQMADFinalSMJ.pdf)、[13秋石名俊 (A)](../USTC/13FaQMADFinalSMJ.pdf)、[14秋石名俊 (A)](../USTC/14FaQMADFinalSMJ.pdf)、[15秋石名俊 (A)](../USTC/15FaQMADFinalSMJ.pdf)、[16秋石名俊 (A)](../USTC/16FaQMADFinalSMJ.pdf)、[18秋未知老师 (A)](../USTC/18FaQMAFinal.pdf)、[19秋未知老师 (A)](../USTC/19FaQMAFinal.pdf)  |
@@ -67,7 +65,7 @@ layout: single  # 单栏布局
 |2022春| [2022春期中 (A)](../USTC/22SpTDAMid.pdf) | [2022春期末 (A)](../USTC/22SpTDAFinal.pdf) |
 |2023春| [2023春期中 (A)](../USTC/23SpTDAMid.pdf) | [2023春期末 (A)](../USTC/23SpTDAFinal.pdf) |
 |2024春| [2024春期中 (A)](../USTC/24SpTDAMid.pdf) | [2024春期末 (A)](../USTC/24SpTDAFinal.pdf) |
-|2025春| 暂无 | 暂无 |
+|2025春| [2025春期中 (A)](../USTC/25SpTDAMid.pdf) | [2025春期末 (A)](../USTC/25SpTDAFinal.pdf) |
 
 
 ## 计算物理
