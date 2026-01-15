@@ -33,10 +33,10 @@ layout: single  # 单栏布局
 |2020春| 暂无 | [未知老师 (A)](../USTC/20SpEDAFinal.pdf)、[王少杰 (A)](../USTC/20SpEDAFinalWSJ.pdf)、[杨焕雄 (A)](../USTC/20SpEDAFinalYHX.pdf) |
 |2021春| 暂无 | 暂无 |
 |2022春| 暂无 | 暂无 |
-|2023春| 暂无 | 暂无 |
-|2024春| 暂无 | 暂无 |
+|2023春| [杨焕雄 (A)](../USTC/23SpEDAMidYHX.pdf) | 暂无 |
+|2024春| [杨焕雄 (A)](../USTC/24SpEDAMidYHX.pdf) | [杨焕雄 (A)](../USTC/24SpEDAFinalYHX.pdf) |
 |2024秋| 无 | [刘子奚 (A)](../USTC/24FaEDAFinal.pdf) |
-|2025春| 暂无 | 暂无 |
+|2025春| [杨焕雄 (A)](../USTC/25SpEDAMidYHX.pdf) | [杨焕雄 (A)](../USTC/25SpEDAFinalYHX.pdf) |
 
 ## 量子力学
 
