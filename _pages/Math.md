@@ -19,12 +19,12 @@ layout: single  # 单栏布局
 
 ## 概率论与数理统计
 
-|年份|期末考试|
+|年份|春季期末考试|秋季期末考试|
 |:----:|:------------:|
-|2022秋| [2022 秋 (A)](../USTC/25FaProbStatFinal.pdf) |
-|2023秋| [2023 秋 (A)](../USTC/25FaProbStatFinal.pdf) |
-|2024秋| [2024 秋 (A)](../USTC/25FaProbStatFinal.pdf) |
-|2025秋| [2025 秋 (A)](../USTC/25FaProbStatFinal.pdf) |
+|2022年|[2022 春](../USTC/22SpProbStatFinal.pdf) | [2022 秋](../USTC/22FaProbStatFinal.pdf) |
+|2023年|[2023 春](../USTC/23SpProbStatFinal.pdf) | [2023 秋](../USTC/23FaProbStatFinal.pdf) |
+|2024年|[2024 春](../USTC/24SpProbStatFinal.pdf) | [2024 秋](../USTC/24FaProbStatFinal.pdf) |
+|2025年| 暂无 | [2025 秋](../USTC/25FaProbStatFinal.pdf) |
 
 [概率论与数理统计上古密卷](../USTC/ProbStat.pdf)
 

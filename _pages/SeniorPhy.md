@@ -8,7 +8,7 @@ layout: single  # 单栏布局
 
 ## 理论力学
 
-> 理论力学 (A) 考试形式：期中自主命题，期末一半自主命题一半统考（公共题）.
+理论力学 (A) 考试形式：期中自主命题，期末一部分自主命题一部分统考（公共题）.
 
 注：部分试卷答案暂未搬运，可以访问[USTC课程资料簿](https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue)查看！
 
@@ -25,6 +25,8 @@ layout: single  # 单栏布局
 
 ## 电动力学
 
+电动力学 (A) 考试形式：自主命题.
+
 注：部分试卷答案暂未搬运，可以访问[USTC课程资料簿](https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/dian-dong-li-xue-todo)查看！
 
 |年份|期中考试|期末考试|
@@ -40,6 +42,8 @@ layout: single  # 单栏布局
 
 ## 量子力学
 
+量子力学 (A) 考试形式：自主命题
+
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
 |2020年前| 石名俊 (A)：[14秋](../USTC/14FaQMAMidSMJ.pdf)、[15秋1](../USTC/15FaQMAMidSMJ1.pdf)、[15秋2](../USTC/15FaQMAMidSMJ2.pdf)、[16秋](../USTC/16FaQMAMidSMJ.pdf)、[17秋](../USTC/17FaQMAMidSMJ.pdf)、[18秋](../USTC/18FaQMAMidSMJ.pdf)  | 石名俊：[12秋](../USTC/12FaQMADFinalSMJ.pdf)、[13秋](../USTC/13FaQMADFinalSMJ.pdf)、[14秋](../USTC/14FaQMADFinalSMJ.pdf)、[15秋](../USTC/15FaQMADFinalSMJ.pdf)、[16秋](../USTC/16FaQMADFinalSMJ.pdf) <br> 未知老师：[18秋](../USTC/18FaQMAFinal.pdf)、[19秋](../USTC/19FaQMAFinal.pdf)  |
@@ -53,7 +57,7 @@ layout: single  # 单栏布局
 
 ## 热力学与统计物理
 
-> 热力学与统计物理 (A) 考试形式：统考.
+热力学与统计物理 (A) 期中考试与期末考试形式：统考.
 
 注：部分试卷答案暂未搬运，可以访问[USTC课程资料簿](https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/page-3)查看！
 
