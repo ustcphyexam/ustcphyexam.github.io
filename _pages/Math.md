@@ -19,10 +19,14 @@ layout: single  # 单栏布局
 
 ## 概率论与数理统计
 
-|年份|期末考试|授课教师|
-|:----:|:------------:|:------------:|
-|2024秋| 暂无 |   |
+|年份|期末考试|
+|:----:|:------------:|
+|2022秋| [2022 秋 (A)](../USTC/25FaProbStatFinal.pdf) |
+|2023秋| [2023 秋 (A)](../USTC/25FaProbStatFinal.pdf) |
+|2024秋| [2024 秋 (A)](../USTC/25FaProbStatFinal.pdf) |
+|2025秋| [2025 秋 (A)](../USTC/25FaProbStatFinal.pdf) |
 
+[概率论与数理统计上古密卷](../USTC/ProbStat.pdf)
 
 ## 复变函数
 

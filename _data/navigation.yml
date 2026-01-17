@@ -14,14 +14,14 @@ main:
   - title: "四大力学"
     url: /SeniorPhy/    
 
-  - title: "理论/凝聚态"
-    url: /ThCond/    
-
-  - title: "天文/核物理"
-    url: /AstroNuc/
+  - title: "物理学"
+    url: /Phy/    
     
-  - title: "量子/原分/光学"
-    url: /QuantAMOOp/
+  - title: "应用物理"
+    url: /AppPhy/
+
+  - title: "其他方向"
+    url: /Other/
         
   - title: "数学通修"
     url: /Math/
