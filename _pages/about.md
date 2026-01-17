@@ -40,9 +40,11 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 
 网站与社交媒体：[评课社区](https://icourse.club)、QQ中的各类科大学习交流群（此处泛指）
 
-2021: 罗钰涵
+2021: 施耀炜、罗钰涵
 
 2023: 于洪飞、贺澳、杨子华、金吴凡
+
+2022: 唐延宇
 
 2024: 黎奉熙、陈联宇
 
