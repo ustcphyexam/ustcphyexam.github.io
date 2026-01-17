@@ -1,0 +1,128 @@
+\documentclass[11pt]{exam-zh} 
+\newcommand{\udline}{\underline{\qquad $\blacktriangle$ \qquad}}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{physics}
+\usepackage{wrapfig}
+\usepackage{dsfont}
+\usepackage{multicol}
+\usepackage{multirow}
+\pagestyle{fancy}
+
+
+\geometry{papersize={21cm,29.7cm}}
+\geometry{left=2cm,right=2cm,top=3cm,bottom=4cm}
+\title{中国科学技术大学 \quad 2026 年 1 月 17 日 8:30 - 10:30}
+\subject{2025 秋计算物理 B 期末考试}
+
+
+\newcommand{\mi}{\mathrm i}%虚数单位
+\newcommand{\me}{\mathrm e}%自然底数
+\newcommand{\pp}{\partial }
+
+\begin{document}
+    \maketitle
+    \begin{notice}
+    \item 本次考试为半开卷考试.
+    \end{notice}
+
+    \section{蒙特卡洛抽样}
+\begin{question}
+考虑宽度为 $L=1$ 的一维无限深方势阱（$0 \leq x \leq 1$）. 系统处于混合态，其中有 $0.8$ 的概率位于基态 $\psi_1(x)$，有 $0.2$ 的概率位于第一激发态 $\psi_2(x)$. 
+\begin{enumerate}[label=(\arabic*)]
+    \item 写出该混合态的位置概率密度函数 $P(x)$. 
+    \item 阐述如何利用\textbf{舍选法（Rejection Method）}对该系统的位置 $x$ 进行抽样（需给出具体的比较函数和步骤）. 
+    \item 说明如何基于生成的随机样本点，获得观测量 $F(x)=x^2$ 的期望值. 
+\end{enumerate}
+
+
+\end{question}
+
+\vspace{8em}
+\section{随机游走与线性方程组}
+\begin{question}
+    设 $M$ 为 100 阶三对角方阵，其主对角元为 $1-a$，次对角元均为 $-b$. 已知参数满足 $a+2b=1$ ($a, b > 0$). 
+
+请设计一个基于\textbf{随机游走（Random Walk）}的算法，求解线性方程组 $MX=Y$. 请明确定义随机游走的转移概率、边界处理以及解的统计估算方法. 
+\end{question}
+
+\vspace{8em}
+\section{有限差分法}
+\begin{question}
+    在极坐标系 $(r, \theta)$ 下，考虑定义在圆环区域上的 Laplace 方程：
+$$
+\nabla^2 u = \frac{1}{r} \frac{\partial}{\partial r} \left( r \frac{\partial u}{\partial r} \right) + \frac{1}{r^2} \frac{\partial^2 u}{\partial \theta^2} = 0
+$$
+请给出该方程的有限差分离散格式（中心差分），并说明边界条件的处理方式. 
+\end{question}
+
+\vspace{8em}
+\section{线性代数迭代法}
+\begin{question}
+    考虑一个三阶线性方程组 $Ax=b$（注：此处回忆版未给出具体数值，考试时请代入试卷给定的具体矩阵 $A$ 和向量 $b$）. 
+
+要求使用 \textbf{Gauss-Seidel 迭代法}，给定初值 $x^{(0)}$，请手动计算前两步迭代结果 $x^{(1)}$ 和 $x^{(2)}$. 
+\end{question}
+
+
+\vspace{8em}
+\section{网格剖分}
+\begin{question}
+    给定平面上的点集，包含单位圆边界上的8个点：
+$$
+P_n = \left(\cos\frac{n\pi}{4}, \sin\frac{n\pi}{4}\right), \quad n=0, 1, \dots, 7
+$$
+以及圆内部的2个点：$Q_1 = (0.1, 0)$，$Q_2 = (-0.1, 0)$. 
+\begin{enumerate}[label=(\arabic*)]
+    \item 请画出或描述一种合适的 \textbf{Delaunay 三角剖分}方案. 
+    \item 阐述在计算机程序中应如何设计数据结构来有效地存储此剖分（包括节点信息、单元连接关系等）. 
+\end{enumerate}
+\end{question}
+
+
+\vspace{8em}
+\section{一维有限元}
+\begin{question}
+    考虑定义在区间 $[0, 1]$ 上的边值问题：
+$$
+y'' + \pi^2 y = 0
+$$
+边界条件为：$y(0) = 1/2$， $y(1) + 0.2y'(1) = -0.67$. 
+\begin{enumerate}[label=(\arabic*)]
+    \item 给出该微分方程对应的泛函 $J[y]$，并证明该泛函取极值的条件即为原微分方程成立（需包含自然边界条件的推导）. 
+    \item 选取节点 $x_i \in \{0, 0.2, 0.5, 1\}$ 进行离散，请列出求解该问题的有限元线性方程组（刚度矩阵和载荷向量的形式，不必算出最终数值解）. 
+\end{enumerate}
+\end{question}
+
+\vspace{8em}
+\section{分子动力学与自旋模型}
+\begin{question}
+    考虑类似于 Ising 模型的自旋系统，哈密顿量 $H$ 仅包含相邻自旋的相互作用. 自旋的时间演化遵从如下方程（Landau-Lifshitz-Gilbert 方程形式）：
+$$
+\frac{d\mathbf{S}_i}{dt} = \alpha (\mathbf{S}_i \times \mathbf{B}_i) + \beta \left( \mathbf{S}_i \times \frac{d\mathbf{S}_i}{dt} \right)
+$$
+其中有效场 $\mathbf{B}_i = -\frac{\partial H}{\partial \mathbf{S}_i}$. 
+
+请结合\textbf{分子动力学（Molecular Dynamics）}的思想，设计一套数值算法求解一维链状系统中的平衡态构型. 
+\end{question}
+
+
+\vspace{8em}
+\section{最小像力约定与邻近搜索}
+\begin{question}
+    在二维正方形区域 $\Omega = [0, 1] \times [0, 1]$ 中采用周期性边界条件. 设有五个粒子，坐标分别为：
+\begin{center}
+    1: $(0.1, 0.1)$ \quad 2: $(0.2, 0.3)$ \quad 3: $(0.3, 0.9)$ \quad 4: $(0.4, 0.4)$ \quad 5: $(0.8, 0.8)$
+\end{center}
+设定相互作用的截断距离为 $r_c = 0.4$. 根据\textbf{最小像力约定（Minimum Image Convention）}：
+\begin{enumerate}[label=(\arabic*)]
+    \item 判断哪些粒子（或其像）会对粒子 1 产生作用力. 
+    \item 给出这些对粒子 1 施加力的源粒子（或其像）在计算力时使用的实际坐标. 
+\end{enumerate}
+\end{question}
+
+
+
+
+\end{document}
