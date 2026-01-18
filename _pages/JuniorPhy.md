@@ -64,6 +64,8 @@ layout: single  # 单栏布局
 |2024秋| [2024秋 (A)](../USTC/24FaOpticsAfinal.pdf) |
 |2025秋| 暂无 |
 
+[光学上古密卷](../USTC/OpticalAFinal.pdf)
+
 ## 原子物理
 
 原子物理 (A) 期末考试形式：统考.

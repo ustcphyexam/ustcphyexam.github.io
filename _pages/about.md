@@ -59,7 +59,7 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 
 2022: 唐延宇
 
-2024: 黎奉熙、陈联宇、吴竞翔
+2024: 黎奉熙、陈联宇、吴竞翔、韩佳平
 
 2025: 肖祖扬、李清臣、易林轩、李林泽
 
