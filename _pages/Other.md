@@ -45,7 +45,7 @@ layout: single  # 单栏布局
 |2022秋| [2022秋](../USTC/22FaTSFinal.pdf) | 赵文 |
 |2023秋| [2023秋](../USTC/23FaTSFinal.pdf) | 赵文 |
 |2024秋| 暂无 | 赵文 |
-|2025秋| 暂无 | 赵文 |
+|2025秋| [2025 秋](../USTC/25FaTSFinal.pdf) | 赵文 |
 
 
 ## 天文学导论

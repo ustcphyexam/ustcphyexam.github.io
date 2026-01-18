@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.30)  17 JAN 2026 21:22
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.30)  18 JAN 2026 16:05
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1636,8 +1636,7 @@ File: puenc-greekbasic.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (g
 File: psdextra.def 2023-02-07 v7.00v Hyperref: Additions to PDF string support
 )
 Package hyperref Info: Option `unicode' set `true' on input line 24.
-
-No file main.aux.
+ (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1660,6 +1659,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1699,12 +1699,9 @@ LaTeX Font Info:    ... okay on input line 24.
 Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 )
 Package hyperref Info: Link coloring OFF on input line 24.
+ (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 
 Package fontspec Info: Could not resolve font "Heiti SC Medium/I" (it probably
@@ -1734,6 +1731,29 @@ Package fontspec Info: Font family 'HeitiSCLight(0)' created for font 'Heiti
 
 \l__list_leftmargin_i_dim=\dimen497
 
+Package fontspec Info: Could not resolve font "STFangsong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STFangsong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STFangsong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'STFangsong(0)' created for font
+(fontspec)             'STFangsong' with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STFangsong/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
 Package fontspec Info: Could not resolve font "STHeiti/BI" (it probably
 (fontspec)             doesn't exist).
 
@@ -1757,65 +1777,40 @@ Package fontspec Info: Font family 'STHeiti(0)' created for font 'STHeiti'
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
+
 LaTeX Font Warning: Font shape `TU/STHeiti(0)/b/n' undefined
-(Font)              using `TU/STHeiti(0)/m/n' instead on input line 30.
+(Font)              using `TU/STHeiti(0)/m/n' instead on input line 31.
 
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 40.
+(Font)              scaled to size 10.95116pt on input line 41.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 40.
+(Font)              scaled to size 7.6658pt on input line 41.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 40.
+(Font)              scaled to size 5.47559pt on input line 41.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 40.
+(Font)              scaled to size 10.94882pt on input line 41.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 40.
+(Font)              scaled to size 7.66417pt on input line 41.
 LaTeX Font Info:    Font shape `TU/NewCMMath-Book(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 40.
+(Font)              scaled to size 5.47441pt on input line 41.
 \l__list_leftmargin_ii_dim=\dimen498
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 61.
-
 [1
 
-]
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 108.
-
-[2]
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 128.
-
-[3] 
+] [2] [3] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package lastpage Warning: Rerun to get the references right on input line 128.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 45821 strings out of 476683
- 1036434 string characters out of 5804047
- 1870018 words of memory out of 5000000
- 65305 multiletter control sequences out of 15000+600000
- 518810 words of font info for 122 fonts, out of 8000000 for 9000
+ 45882 strings out of 476683
+ 1039259 string characters out of 5804047
+ 1872018 words of memory out of 5000000
+ 65350 multiletter control sequences out of 15000+600000
+ 518858 words of font info for 128 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  140i,12n,134p,1296b,2774s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
