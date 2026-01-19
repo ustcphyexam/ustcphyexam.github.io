@@ -62,7 +62,7 @@ layout: single  # 单栏布局
 |2022秋| [2022秋 (A)](../USTC/22FaOpticsAfinal.pdf) |
 |2023秋| [2023秋 (A)](../USTC/23FaOpticsAfinal.pdf) |
 |2024秋| [2024秋 (A)](../USTC/24FaOpticsAfinal.pdf) |
-|2025秋| 暂无 |
+|2025秋| [2025秋 (A)](../USTC/25FaOpticsAfinal.pdf) |
 
 [光学上古密卷](../USTC/OpticalAFinal.pdf)
 
