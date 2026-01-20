@@ -31,7 +31,7 @@ layout: single  # 单栏布局
 |2022秋|暂无|[赵文](../USTC/22FaTSFinal.pdf) | [赵文](../USTC/22FaGRFinal.pdf) | 暂无 |
 |2023秋|暂无| [赵文](../USTC/23FaTSFinal.pdf) | [赵文](../USTC/23FaGRFinal.pdf) | 暂无 |
 |2024秋|暂无| 暂无 | 暂无 | 暂无 |
-|2025秋|暂无| [赵文,王博](../USTC/25FaTSFinal.pdf) | 赵文 | 暂无 | 暂无 |
+|2025秋|暂无| [赵文,王博](../USTC/25FaTSFinal.pdf) | [赵文](../USTC/25FaGRFinal.pdf) | 暂无 |
 
 
 
