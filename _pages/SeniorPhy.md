@@ -41,7 +41,6 @@ layout: single  # 单栏布局
 |2025春| [杨焕雄 (A)](../USTC/25SpEDAMidYHX.pdf) | [杨焕雄 (A)](../USTC/25SpEDAFinalYHX.pdf) |
 |2026春| [贾青 (A)](../USTC/26SpEDAMidJQ.pdf) | [贾青 (A)](../USTC/26SpEDAFinalJQ.pdf)、[刘万东 (A)](../USTC/26SpEDAFinalLWD.pdf)、[潘海俊 (A)](../USTC/26SpEDAFinalPHJ.pdf)、[王少杰 (A)](../USTC/26SpEDAFinalWSJ.pdf)、[李弘 (A)](../USTC/26SpEDAFinalLH.pdf) |
 
-注：**2026 春** 中 *李弘* 老师的期末试卷来自评课社区回忆版+AI补全，欢迎同学们纠正.
 
 ## 量子力学
 
