@@ -15,6 +15,8 @@ redirect_from:
 
 - [2024春高等量子力学期末考试（王文阁）](../USTC/24SpAQMFinalWWG.pdf)、[2025春高等量子力学期末考试（王文阁）](../USTC/25SpAQMFinalWWG.pdf)
 
+- [2025秋理论力学 A 冯畅期末考试](../USTC/25FaTMAFinalFC.pdf)
+
 
 完整更新日志[点击查看](/log/).
 
