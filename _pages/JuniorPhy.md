@@ -12,12 +12,12 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
-|2020秋| [向守平 (A)](./USTC/20FaMechAMidXSP.pdf) | 暂无 |
-|2021秋| [未知老师](./USTC/21FaMechAMid.pdf) | [未知老师](./USTC/21FaMechFinal.pdf) |
+|2020秋| [向守平 (A)](../USTC/20FaMechAMidXSP.pdf) | 暂无 |
+|2021秋| [未知老师](../USTC/21FaMechAMid.pdf) | [未知老师](../USTC/21FaMechFinal.pdf) |
 |2022秋| 暂无 | 暂无 |
-|2023秋| [未知老师](./USTC/23FaMechAMid.pdf) | [2023秋 (A)&(H)](./USTC/23FaMechAFinal.pdf) |
-|2024秋| [力学 A(L) 期中卷I](./USTC/24FaMechALMid1.pdf)、[力学 A(L) 期中卷II](./USTC/24FaMechALMid2.pdf)、[刘衍文 (H) 期中卷](./USTC/24FaMechHMid.pdf) | [2024秋 (A)&(H)](./USTC/24FaMechAFinal.pdf) |
-|2025秋| [刘衍文 (H)](./USTC/25FaMechHMid.pdf) | [2025 秋 (A)&(H)](./USTC/25FaMechAFinal.pdf) |
+|2023秋| [未知老师](../USTC/23FaMechAMid.pdf) | [2023秋 (A)&(H)](../USTC/23FaMechAFinal.pdf) |
+|2024秋| [力学 A(L) 期中卷 I](../USTC/24FaMechALMid1.pdf)、[力学 A(L) 期中卷 II](../USTC/24FaMechALMid2.pdf)、[刘衍文 (H) 期中卷](../USTC/24FaMechHMid.pdf) | [2024秋 (A)&(H)](../USTC/24FaMechAFinal.pdf) |
+|2025秋| [刘衍文 (H)](../USTC/25FaMechHMid.pdf) | [2025 秋 (A)&(H)](../USTC/25FaMechAFinal.pdf) |
 
 
 ## 热学
@@ -29,13 +29,13 @@ layout: single  # 单栏布局
 |2020春| 暂无 | 暂无 |
 |2021春| 暂无 | 暂无 |
 |2021秋| 暂无 | 暂无 |
-|2022春| 暂无 | [2022春 (A)](./USTC/22SpThermAFinal.pdf) |
+|2022春| 暂无 | [2022春 (A)](../USTC/22SpThermAFinal.pdf) |
 |2023春| 暂无 | 暂无 |
-|2024春| 暂无 | [2024春 (A)](./USTC/24SpThermAFinal.pdf) |
-|2025春| 暂无 | [2025春 (A)](./USTC/25SpThermAFinal.pdf)、[2025春 (B)](./USTC/25SpThermBFinal.pdf) |
-|2026春| 暂无 | [预考（朱弘）(A)](./USTC/25SpThermApreFinalZH.pdf) |
+|2024春| 暂无 | [2024春 (A)](../USTC/24SpThermAFinal.pdf) |
+|2025春| 暂无 | [2025春 (A)](../USTC/25SpThermAFinal.pdf)、[2025春 (B)](../USTC/25SpThermBFinal.pdf) |
+|2026春| 暂无 | [预考（朱弘）(A)](../USTC/25SpThermApreFinalZH.pdf) |
 
-[2026春免修考试](./USTC/26SpThermAFirst.pdf)
+[2026春免修考试](../USTC/26SpThermAFirst.pdf)
 
 ## 电磁学
 
@@ -43,16 +43,16 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
-|2020年前| 暂无 | [17春公共部分 (A)](./USTC/17SpEMAFinal.pdf)、[18春公共部分 (A)](./USTC/18SpEMAFinal.pdf) |
-|2020春| 暂无 | [2020春 (A)](./USTC/20SpEMAFinal.pdf)  |
-|2021春| [2021春 (A)](./USTC/21SpEMAMid.pdf) | 暂无 |
+|2020年前| 暂无 | [17春公共部分 (A)](../USTC/17SpEMAFinal.pdf)、[18春公共部分 (A)](../USTC/18SpEMAFinal.pdf) |
+|2020春| 暂无 | [2020春 (A)](../USTC/20SpEMAFinal.pdf)  |
+|2021春| [2021春 (A)](../USTC/21SpEMAMid.pdf) | 暂无 |
 |2022春| 暂无 | 暂无 |
-|2023春| [2023春 (A)&(H)](./USTC/23SpEMAMid.pdf) | 暂无 |
-|2024春| [叶邦角 (H)](./USTC/24SpEMHMid.pdf)、[卢三 (A)](./USTC/24SpEMAMidLS.pdf) | [叶邦角 (H)](./USTC/24SpEMHFinal.pdf) |
-|2025春| [叶邦角 (H)](./USTC/25SpEMHMid.pdf) | [叶邦角 (H)](./USTC/25SpEMHFinal.pdf) |
-|2026春| [邓友金 (A)](./USTC/26SpEMAMidDYJ.pdf), [叶邦角 (H)](./USTC/26SpEMHMid.pdf), [卢三 (A)](./USTC/26SpEMAMidLS.pdf)  | 暂无 |
+|2023春| [2023春 (A)&(H)](../USTC/23SpEMAMid.pdf) | 暂无 |
+|2024春| [叶邦角 (H)](../USTC/24SpEMHMid.pdf)、[卢三 (A)](../USTC/24SpEMAMidLS.pdf) | [叶邦角 (H)](../USTC/24SpEMHFinal.pdf) |
+|2025春| [叶邦角 (H)](../USTC/25SpEMHMid.pdf) | [叶邦角 (H)](../USTC/25SpEMHFinal.pdf) |
+|2026春| [邓友金 (A)](../USTC/26SpEMAMidDYJ.pdf), [叶邦角 (H)](../USTC/26SpEMHMid.pdf), [卢三 (A)](../USTC/26SpEMAMidLS.pdf)  | 暂无 |
 
-[2026春免修考试](./USTC/26SpEMAFirst.pdf)
+[2026春免修考试](../USTC/26SpEMAFirst.pdf)
 
 
 
@@ -63,15 +63,15 @@ layout: single  # 单栏布局
 |年份|期末考试|
 |:----:|:------------:|
 |2020秋| 暂无 |
-|2021秋| [2021秋 (A)](./USTC/21FaOpticsAfinal.pdf) |
-|2022秋| [2022秋 (A)](./USTC/22FaOpticsAfinal.pdf) |
-|2023秋| [2023秋 (A)](./USTC/23FaOpticsAfinal.pdf) |
-|2024秋| [2024秋 (A)](./USTC/24FaOpticsAfinal.pdf) |
-|2025秋| [2025秋 (A)](./USTC/25FaOpticsAfinal.pdf) |
+|2021秋| [2021秋 (A)](../USTC/21FaOpticsAfinal.pdf) |
+|2022秋| [2022秋 (A)](../USTC/22FaOpticsAfinal.pdf) |
+|2023秋| [2023秋 (A)](../USTC/23FaOpticsAfinal.pdf) |
+|2024秋| [2024秋 (A)](../USTC/24FaOpticsAfinal.pdf) |
+|2025秋| [2025秋 (A)](../USTC/25FaOpticsAfinal.pdf) |
 
-[2026 春期中考试 (A)](./USTC/26SpOpticsAMid.pdf)
+[2026 春期中考试 (A)](../USTC/26SpOpticsAMid.pdf)
 
-[光学上古密卷](./USTC/OpticalAFinal.pdf)
+[光学上古密卷](../USTC/OpticalAFinal.pdf)
 
 ## 原子物理
 
@@ -79,19 +79,19 @@ layout: single  # 单栏布局
 
 |年份|期末考试|
 |:----:|:------------:|
-|2020年前| [2016春 (A)](./USTC/16SpAtomAFinal.pdf)、[2018春 (A)](./USTC/18SpAtomAFinal.pdf) |
+|2020年前| [2016春 (A)](../USTC/16SpAtomAFinal.pdf)、[2018春 (A)](../USTC/18SpAtomAFinal.pdf) |
 |2020春| 暂无 |
 |2021春| 暂无 |
-|2022春| [2022春 (A)](./USTC/22SpAtomAFinal.pdf) |
+|2022春| [2022春 (A)](../USTC/22SpAtomAFinal.pdf) |
 |2023春| 暂无 |
 |2024春| 暂无 |
-|2025春| [2025春 (A)](./USTC/25SpAtomAFinal.pdf) |
-|2025秋| [2025秋 (A)](./USTC/25FaAtomAFinal.pdf) |
-|2026春| [2026春 (A) 选择题部分](./USTC/25SpAtomAFinal.pdf) |
+|2025春| [2025春 (A)](../USTC/25SpAtomAFinal.pdf) |
+|2025秋| [2025秋 (A)](../USTC/25FaAtomAFinal.pdf) |
+|2026春| [2026春 (A) 选择题部分](../USTC/25SpAtomAFinal.pdf) |
 
-[2026 春吴恩亮班期中考试 (A)](./USTC/26SpAtomAMidWEL.pdf)
+[2026 春吴恩亮班期中考试 (A)](../USTC/26SpAtomAMidWEL.pdf)
 
-[原子物理上古密卷](./USTC/AtomAFinal.pdf)
+[原子物理上古密卷](../USTC/AtomAFinal.pdf)
 
 
 ## 模拟电路
@@ -100,32 +100,32 @@ layout: single  # 单栏布局
  
 |年份|考试|
 |:----:|:------------:|
-| 2020 年前 | [14秋与16秋线性电子线路](./USTC/14Fa16FaLElecFinal.pdf)、[17秋电子电路](./USTC/17FaElecFinal.pdf) <br> [19春电子电路](./USTC/19SpElecFinal.pdf) 、[19春线性电子线路](./USTC/19SpLElecFinal.pdf) |
+| 2020 年前 | [14秋与16秋线性电子线路](../USTC/14Fa16FaLElecFinal.pdf)、[17秋电子电路](../USTC/17FaElecFinal.pdf) <br> [19春电子电路](../USTC/19SpElecFinal.pdf) 、[19春线性电子线路](../USTC/19SpLElecFinal.pdf) |
 |2020| 暂无 |
-|2021| [21春电子电路](./USTC/21SpElecFinal.pdf) 、 [21秋电子技术基础](./USTC/21FaElecFinal.pdf)  |
+|2021| [21春电子电路](../USTC/21SpElecFinal.pdf) 、 [21秋电子技术基础](../USTC/21FaElecFinal.pdf)  |
 |2022| 暂无 |
-|2023| [23春电子线路](./USTC/23SpElecFinal.pdf)  |
+|2023| [23春电子线路](../USTC/23SpElecFinal.pdf)  |
 |2024| 暂无 |
 |2025| 暂无 |
 |2026| 暂无 |
 
-[未知年份试卷1](./USTC/UkElecFinal1.pdf)
+[未知年份试卷1](../USTC/UkElecFinal1.pdf)
 
-[未知年份试卷2](./USTC/UkElecFinal2.pdf)
+[未知年份试卷2](../USTC/UkElecFinal2.pdf)
 
-[未知年份线性电子线路](./USTC/UkLElecFinal.pdf)
+[未知年份线性电子线路](../USTC/UkLElecFinal.pdf)
 
-[电子技术基础上古密卷1](./USTC/FElecFinal1.pdf)
+[电子技术基础上古密卷1](../USTC/FElecFinal1.pdf)
 
-[电子技术基础上古密卷2](./USTC/FElecFinal2.pdf)
+[电子技术基础上古密卷2](../USTC/FElecFinal2.pdf)
 
 ## 数字电路
 
 |年份|考试|
 |:----:|:------------:|
-|2020年前| [15秋数字逻辑电路](./USTC/15FaDLCFinal.pdf)、[17秋数字逻辑电路](./USTC/17FaDLCFinal.pdf)、[19秋数字逻辑电路](./USTC/19FaDLCFinal.pdf)  |
-|2020秋| [20秋数字逻辑电路](./USTC/20FaDLCFinal.pdf) |
-|2021秋| [21秋数字逻辑电路](./USTC/21FaDLCFinal.pdf) |
+|2020年前| [15秋数字逻辑电路](../USTC/15FaDLCFinal.pdf)、[17秋数字逻辑电路](../USTC/17FaDLCFinal.pdf)、[19秋数字逻辑电路](../USTC/19FaDLCFinal.pdf)  |
+|2020秋| [20秋数字逻辑电路](../USTC/20FaDLCFinal.pdf) |
+|2021秋| [21秋数字逻辑电路](../USTC/21FaDLCFinal.pdf) |
 |2022秋| 暂无 |
 |2023秋| 暂无 |
 |2024秋| 暂无 |
