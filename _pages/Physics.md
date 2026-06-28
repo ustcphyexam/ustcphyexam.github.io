@@ -28,8 +28,9 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
-|2025秋| 暂无 | 暂无 |
-| 2026 春 | [王文阁](../USTC/26SpAQMMidWWG.pdf) | |
+| 2024 春 | 暂无 | [王文阁](../USTC/24SpAQMFinalWWG.pdf) |
+| 2025 春 | 暂无 | [王文阁](../USTC/25SpAQMFinalWWG.pdf) |
+| 2026 春 | [王文阁](../USTC/26SpAQMMidWWG.pdf) | 暂无 |
 
 
 # 原子分子物理
