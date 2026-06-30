@@ -13,6 +13,7 @@ redirect_from:
 
 - [2026春热学 A 期末考试](../USTC/26SpThermAFinal.pdf)
 - [2026春电动力学 A 期末考试（陶鑫）](../USTC/26SpEDAFinalTX.pdf)
+- [2026春统计力学期末考试](../USTC/26SpStatPhFinal.pdf)
 
 
 完整更新日志[点击查看](/log/).

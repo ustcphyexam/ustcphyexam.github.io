@@ -74,6 +74,7 @@ layout: single  # 单栏布局
 |2025春| [2025春期中 (A)](../USTC/25SpTDAMid.pdf) | [2025春期末 (A)](../USTC/25SpTDAFinal.pdf) |
 |2026春| [2026春期中 (B)](../USTC/25SpTDBMid.pdf) | 暂无 |
 
+[2026 春统计力学期末考试](../USTC/26SpStatPhFinal.pdf)
 
 ## 计算物理
 
