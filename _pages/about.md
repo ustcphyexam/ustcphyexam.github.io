@@ -12,6 +12,7 @@ redirect_from:
 更新内容：
 
 - [2026春热学 A 期末考试](../USTC/26SpThermAFinal.pdf)
+- [2026春电动力学 A 期末考试（陶鑫）](../USTC/26SpEDAFinalTX.pdf)
 
 
 完整更新日志[点击查看](/log/).
@@ -69,7 +70,7 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 
 2022: 唐延宇
 
-2024: 黎奉熙、陈联宇、吴竞翔、韩佳平、于世霆
+2024: 黎奉熙、陈联宇、吴竞翔、韩佳平、于世霆、LiClO$_4$
 
 2025: 肖祖扬、李清臣、易林轩、李林泽、刘锟、邓心宇、汤少帅、邬子钺、吴天涵、胡光耀、王宇浩
 
