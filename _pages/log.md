@@ -6,11 +6,17 @@ layout: single  # 单栏布局
 
 ### 2026.6
 
+#### 6.30 更新
+
+- [2026春热学 A 期末考试](../USTC/26SpThermAFinal.pdf)
+
 #### 6.28 更新
 
 - [2026春电动力学 A 期末考试（贾青）](../USTC/26SpEDAFinalJQ.pdf)、[2026春电动力学 A 期末考试（刘万东）](../USTC/26SpEDAFinalLWD.pdf)、[2026春电动力学 A 期末考试（潘海俊）](../USTC/26SpEDAFinalPHJ.pdf)、[2026春电动力学 A 期末考试（王少杰）](../USTC/26SpEDAFinalWSJ.pdf)、[李弘 (A)](../USTC/26SpEDAFinalLH.pdf)
 
 - [2024春高等量子力学期末考试（王文阁）](../USTC/24SpAQMFinalWWG.pdf)、[2025春高等量子力学期末考试（王文阁）](../USTC/25SpAQMFinalWWG.pdf)
+
+- [2025秋理论力学 A 冯畅期末考试](../USTC/25FaTMAFinalFC.pdf)
 
 #### 6.25 更新
 

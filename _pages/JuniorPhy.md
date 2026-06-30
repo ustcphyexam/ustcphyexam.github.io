@@ -33,7 +33,7 @@ layout: single  # 单栏布局
 |2023春| 暂无 | 暂无 |
 |2024春| 暂无 | [2024春 (A)](../USTC/24SpThermAFinal.pdf) |
 |2025春| 暂无 | [2025春 (A)](../USTC/25SpThermAFinal.pdf)、[2025春 (B)](../USTC/25SpThermBFinal.pdf) |
-|2026春| 暂无 | [预考（朱弘）(A)](../USTC/25SpThermApreFinalZH.pdf) |
+|2026春| 暂无 | [预考（朱弘）(A)](../USTC/25SpThermApreFinalZH.pdf)、[2026 春（A）](../USTC/26SpThermAFinal.pdf) |
 
 [2026春免修考试](../USTC/26SpThermAFirst.pdf)
 
