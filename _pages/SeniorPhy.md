@@ -22,6 +22,7 @@ layout: single  # 单栏布局
 |2023秋| 暂无 | 暂无 |
 |2024秋| [袁业飞第一次 (A)](../USTC/24FaTMAMidYYF1.pdf)、[潘海俊 (A)](../USTC/24FaTMAMidPHJ.pdf) | [潘海俊 (A)](../USTC/24FaTMAFinalPHJ.pdf) |
 |2025秋| [朱界杰 (A)](../USTC/25FaTMAMidZJJ.pdf) | [朱界杰 (A)](../USTC/25FaTMAFinalZJJ.pdf)、[袁业飞 (A)](../USTC/25FaTMAFinalYYF.pdf)、[冯畅 （A）](../USTC/25FaTMAFinalFC.pdf) |
+|2026春| [朱界杰 (A)](../USTC/26SpTMAMidZJJ.pdf) | [朱界杰 (A)](../USTC/26SpTMAFinalZJJ.pdf)|
 
 ## 电动力学
 
@@ -100,4 +101,4 @@ layout: single  # 单栏布局
 |2023春| 暂无 |
 |2024春| 暂无 |
 |2025春| 暂无 |
-|2026春| [2026春期末](../USTC/26SpSSPFinal.pdf) |
+|2026春| [赵瑾 (A)](../USTC/26SpSSPAFinalZJ.pdf)、[郑奇靖 (B)](../USTC/26SpSSPBFinalZQJ.pdf) |

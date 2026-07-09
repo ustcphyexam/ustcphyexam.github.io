@@ -6,6 +6,15 @@ layout: single  # 单栏布局
 
 ### 2026.6
 
+#### 7.9 更新
+
+- [2026春理论力学 A 期中考试（朱界杰）](../USTC/26SpTMAMidZJJ.pdf)、[2026春理论力学 A 期末考试（朱界杰）](../USTC/26SpTMAFinalZJJ.pdf)
+- [2023春现代原子与分子物理导论期末考试](../USTC/23SpIntroMAPFinal.pdf)、[2026春现代原子与分子物理导论期末考试](../USTC/26SpIntroMAPFinal.pdf)
+- [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinal.pdf)
+- [2026春固体物理 B 期末考试（郑奇靖）](../USTC/26SpSSPBFinalZQJ.pdf)
+- 更新完整版并重置链接：[2026春原子物理 A 期末考试 ](../USTC/26SpAtomAFinal.pdf)
+- 重命名：[2026春固体物理 A 期末考试赵瑾](../USTC/26SpSSPAFinalZJ.pdf)
+
 #### 6.30 更新
 
 - [2026春热学 A 期末考试](../USTC/26SpThermAFinal.pdf)

@@ -7,13 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-# 最后一次更新：2026.6.30
+# 最后一次更新：2026.7.9
 
 更新内容：
 
-- [2026春热学 A 期末考试](../USTC/26SpThermAFinal.pdf)
-- [2026春电动力学 A 期末考试（陶鑫）](../USTC/26SpEDAFinalTX.pdf)
-- [2026春统计力学期末考试](../USTC/26SpStatPhFinal.pdf)
+- [2026春理论力学 A 期中考试（朱界杰）](../USTC/26SpTMAMidZJJ.pdf)、[2026春理论力学 A 期末考试（朱界杰）](../USTC/26SpTMAFinalZJJ.pdf)
+- [2023春现代原子与分子物理导论期末考试](../USTC/23SpIntroMAPFinal.pdf)、[2026春现代原子与分子物理导论期末考试](../USTC/26SpIntroMAPFinal.pdf)
+- [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinal.pdf)
+- [2026春固体物理 B 期末考试（郑奇靖）](../USTC/26SpSSPBFinalZQJ.pdf)
+- 更新完整版并重置链接：[2026春原子物理 A 期末考试 ](../USTC/26SpAtomAFinal.pdf)
+- 重命名：[2026春固体物理 A 期末考试赵瑾](../USTC/26SpSSPAFinalZJ.pdf)
 
 
 完整更新日志[点击查看](/log/).
@@ -67,13 +70,13 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 
 2021: 施耀炜、罗钰涵
 
-2023: 于洪飞、贺澳、杨子华、金吴凡、李响
+2023: 于洪飞、贺澳、杨子华、金吴凡、李响、魏子博
 
 2022: 唐延宇
 
 2024: 黎奉熙、陈联宇、吴竞翔、韩佳平、于世霆、LiClO$_4$
 
-2025: 肖祖扬、李清臣、易林轩、李林泽、刘锟、邓心宇、汤少帅、邬子钺、吴天涵、胡光耀、王宇浩
+2025: 肖祖扬、李清臣、易林轩、李林泽、刘锟、邓心宇、汤少帅、邬子钺、吴天涵、胡光耀、王宇浩、林烟、蒋乐洋
 
 *贡献名单并不完整，如果您对历年真题做出贡献欢迎联系[邮箱](mailto:ustcphyexam@163.com)，我们十分乐意将您加入贡献者名单.*
 
