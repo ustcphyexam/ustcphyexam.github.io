@@ -12,7 +12,7 @@ redirect_from:
 更新内容：
 
 - [2026春电磁学 A 期末考试](../USTC/26SpEMAFinal.pdf)
-- 修复了 [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinal.pdf) 链接 404 Not Found 的问题.
+- 修复了 [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinal.pdf) 文件命名错误.
 
 完整更新日志[点击查看](/log/).
 
