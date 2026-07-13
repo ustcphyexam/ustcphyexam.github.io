@@ -6,6 +6,12 @@ layout: single  # 单栏布局
 
 ### 2026.6
 
+#### 7.13 更新
+
+- [2026春电磁学 A 期末考试](../USTC/26SpEMAFinal.pdf)
+- 修复了 [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinal.pdf) 链接 404 Not Found 的问题.
+
+
 #### 7.9 更新
 
 - [2026春理论力学 A 期中考试（朱界杰）](../USTC/26SpTMAMidZJJ.pdf)、[2026春理论力学 A 期末考试（朱界杰）](../USTC/26SpTMAFinalZJJ.pdf)

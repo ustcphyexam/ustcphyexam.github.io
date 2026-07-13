@@ -50,7 +50,7 @@ layout: single  # 单栏布局
 |2023春| [2023春 (A)&(H)](../USTC/23SpEMAMid.pdf) | 暂无 |
 |2024春| [叶邦角 (H)](../USTC/24SpEMHMid.pdf)、[卢三 (A)](../USTC/24SpEMAMidLS.pdf) | [叶邦角 (H)](../USTC/24SpEMHFinal.pdf) |
 |2025春| [叶邦角 (H)](../USTC/25SpEMHMid.pdf) | [叶邦角 (H)](../USTC/25SpEMHFinal.pdf) |
-|2026春| [邓友金 (A)](../USTC/26SpEMAMidDYJ.pdf), [叶邦角 (H)](../USTC/26SpEMHMid.pdf), [卢三 (A)](../USTC/26SpEMAMidLS.pdf)  | [叶邦角 (H)](../USTC/26SpEMHFinal.pdf) |
+|2026春| [邓友金 (A)](../USTC/26SpEMAMidDYJ.pdf), [叶邦角 (H)](../USTC/26SpEMHMid.pdf), [卢三 (A)](../USTC/26SpEMAMidLS.pdf)  | [叶邦角 (H)](../USTC/26SpEMHFinal.pdf)、[期末 (A)](../USTC/26SpEMAFinal.pdf) |
 
 [2026春免修考试](../USTC/26SpEMAFirst.pdf)
 
