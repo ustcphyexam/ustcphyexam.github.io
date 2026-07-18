@@ -6,6 +6,11 @@ layout: single  # 单栏布局
 
 ### 2026.6
 
+#### 7.18 更新
+
+- [2026春电磁学 A 期中考试（陶小平）](../USTC/26SpEMAMidTXP.pdf)、[2026春电磁学 A 期末考试（陶小平）](../USTC/26SpEMAFinalTXP.pdf)
+- 再修复了 [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinalYBJ.pdf) 链接 404 Not Found 问题.
+
 #### 7.13 更新
 
 - [2026春电磁学 A 期末考试](../USTC/26SpEMAFinal.pdf)

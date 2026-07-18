@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# 最后一次更新：2026.7.13
+# 最后一次更新：2026.7.18
 
 更新内容：
 
-- [2026春电磁学 A 期末考试](../USTC/26SpEMAFinal.pdf)
-- 修复了 [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinalYBJ.pdf) 链接 404 Not Found 问题.
+- [2026春电磁学 A 期中考试（陶小平）](../USTC/26SpEMAMidTXP.pdf)、[2026春电磁学 A 期末考试（陶小平）](../USTC/26SpEMAFinalTXP.pdf)
+- 再修复了 [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinalYBJ.pdf) 链接 404 Not Found 问题.
 
 完整更新日志[点击查看](/log/).
 
@@ -71,7 +71,7 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 
 2024: 黎奉熙、陈联宇、吴竞翔、韩佳平、于世霆、LiClO$_4$
 
-2025: 肖祖扬、李清臣、易林轩、李林泽、刘锟、邓心宇、汤少帅、邬子钺、吴天涵、胡光耀、王宇浩、林烟、蒋乐洋
+2025: 肖祖扬、李清臣、易林轩、李林泽、刘锟、邓心宇、汤少帅、邬子钺、吴天涵、胡光耀、王宇浩、林烟、蒋乐洋、马何酷
 
 *贡献名单并不完整，如果您对历年真题做出贡献欢迎联系[邮箱](mailto:ustcphyexam@163.com)，我们十分乐意将您加入贡献者名单.*
 
