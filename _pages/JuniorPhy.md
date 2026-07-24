@@ -16,7 +16,7 @@ layout: single  # 单栏布局
 |2021秋| [未知老师](../USTC/21FaMechAMid.pdf) | [未知老师](../USTC/21FaMechFinal.pdf) |
 |2022秋| 暂无 | 暂无 |
 |2023秋| [未知老师](../USTC/23FaMechAMid.pdf) | [2023秋 (A)&(H)](../USTC/23FaMechAFinal.pdf) |
-|2024秋| [力学 A(L) 期中卷I](../USTC/24FaMechALMid1.pdf)、[力学 A(L) 期中卷II](../USTC/24FaMechALMid2.pdf)、[刘衍文 (H) 期中卷](../USTC/24FaMechHMid.pdf) | [2024秋 (A)&(H)](../USTC/24FaMechAFinal.pdf) |
+|2024秋| [力学 A(L) 期中卷 I](../USTC/24FaMechALMid1.pdf)、[力学 A(L) 期中卷 II](../USTC/24FaMechALMid2.pdf)、[刘衍文 (H) 期中卷](../USTC/24FaMechHMid.pdf) | [2024秋 (A)&(H)](../USTC/24FaMechAFinal.pdf) |
 |2025秋| [刘衍文 (H)](../USTC/25FaMechHMid.pdf) | [2025 秋 (A)&(H)](../USTC/25FaMechAFinal.pdf) |
 
 
@@ -33,7 +33,7 @@ layout: single  # 单栏布局
 |2023春| 暂无 | 暂无 |
 |2024春| 暂无 | [2024春 (A)](../USTC/24SpThermAFinal.pdf) |
 |2025春| 暂无 | [2025春 (A)](../USTC/25SpThermAFinal.pdf)、[2025春 (B)](../USTC/25SpThermBFinal.pdf) |
-|2026春| 暂无 | [预考（朱弘）(A)](../USTC/25SpThermApreFinalZH.pdf) |
+|2026春| 暂无 | [预考（朱弘）(A)](../USTC/25SpThermApreFinalZH.pdf)、[2026 春（A）](../USTC/26SpThermAFinal.pdf) |
 
 [2026春免修考试](../USTC/26SpThermAFirst.pdf)
 
@@ -50,7 +50,7 @@ layout: single  # 单栏布局
 |2023春| [2023春 (A)&(H)](../USTC/23SpEMAMid.pdf) | 暂无 |
 |2024春| [叶邦角 (H)](../USTC/24SpEMHMid.pdf)、[卢三 (A)](../USTC/24SpEMAMidLS.pdf) | [叶邦角 (H)](../USTC/24SpEMHFinal.pdf) |
 |2025春| [叶邦角 (H)](../USTC/25SpEMHMid.pdf) | [叶邦角 (H)](../USTC/25SpEMHFinal.pdf) |
-|2026春| [邓友金 (A)](../USTC/26SpEMAMidDYJ.pdf), [叶邦角 (H)](../USTC/26SpEMHMid.pdf), [卢三 (A)](../USTC/26SpEMAMidLS.pdf)  | 暂无 |
+|2026春| [邓友金 (A)](../USTC/26SpEMAMidDYJ.pdf), [叶邦角 (H)](../USTC/26SpEMHMid.pdf), [卢三 (A)](../USTC/26SpEMAMidLS.pdf)、[陶小平 (A)](../USTC/26SpEMAMidTXP.pdf)  | [叶邦角 (H)](../USTC/26SpEMHFinalYBJ.pdf)、[潘海俊 & 邓友金 (A)](../USTC/26SpEMAFinalPHJ.pdf)、[陶小平 (A)](../USTC/26SpEMAFinalTXP.pdf) |
 
 [2026春免修考试](../USTC/26SpEMAFirst.pdf)
 
@@ -87,7 +87,7 @@ layout: single  # 单栏布局
 |2024春| 暂无 |
 |2025春| [2025春 (A)](../USTC/25SpAtomAFinal.pdf) |
 |2025秋| [2025秋 (A)](../USTC/25FaAtomAFinal.pdf) |
-|2026春| [2026春 (A) 选择题部分](../USTC/25SpAtomAFinal.pdf) |
+|2026春| [2026春 (A) ](../USTC/26SpAtomAFinal.pdf) |
 
 [2026 春吴恩亮班期中考试 (A)](../USTC/26SpAtomAMidWEL.pdf)
 

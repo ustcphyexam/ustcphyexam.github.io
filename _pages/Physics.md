@@ -28,8 +28,9 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
-|2025秋| 暂无 | 暂无 |
-| 2026 春 | [王文阁](../USTC/26SpAQMMidWWG.pdf) | |
+| 2024 春 | 暂无 | [王文阁](../USTC/24SpAQMFinalWWG.pdf) |
+| 2025 春 | 暂无 | [王文阁](../USTC/25SpAQMFinalWWG.pdf) |
+| 2026 春 | [王文阁](../USTC/26SpAQMMidWWG.pdf) | 暂无 |
 
 
 # 原子分子物理
@@ -38,7 +39,10 @@ layout: single  # 单栏布局
 
 |年份|期末考试|授课教师|
 |:----:|:------------:|:------------:|
-|2025春| [2025 春](../USTC/25SpIntroMAPFinal.pdf) | 苑震生,盛东,张进一 |
+|2023 春| [2023 春](../USTC/23SpIntroMAPFinal.pdf) | 苑震生,盛东 |
+|2024 春| 暂无 | 暂无 |
+|2025 春| [2025 春](../USTC/25SpIntroMAPFinal.pdf) | 苑震生,盛东,张进一 |
+|2026 春| [2026 春](../USTC/26SpIntroMAPFinal.pdf) | 苑震生,盛东,张进一 |
 
 
 ## 现代原子物理
