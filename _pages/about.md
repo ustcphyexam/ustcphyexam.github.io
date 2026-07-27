@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# 最后一次更新：2026.7.18
+# 最后一次更新：2026.7.24
 
 更新内容：
 
-- [2026春电磁学 A 期中考试（陶小平）](../USTC/26SpEMAMidTXP.pdf)、[2026春电磁学 A 期末考试（陶小平）](../USTC/26SpEMAFinalTXP.pdf)
-- 再修复了 [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinalYBJ.pdf) 链接 404 Not Found 问题.
+- [2025春受控热核聚变导论期末考试（郑坚，庄革）](../USTC/25SpCTNFFinal.pdf)、[2026春受控热核聚变导论期末考试（郑坚，庄革）](../USTC/26SpCTNFFinal.pdf)
+- 在[应用物理学](/AppPhy/)页面新增“受控热核聚变导论”分类，并将应用物理学（核）的两个专业加入应用物理学页面
 
 完整更新日志[点击查看](/log/).
 
