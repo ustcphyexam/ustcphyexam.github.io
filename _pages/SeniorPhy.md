@@ -90,6 +90,8 @@ layout: single  # 单栏布局
 |2025春| [张志勇,魏逸丰 (B)](../USTC/25SpCompPhyBFinal.pdf) |
 |2025秋| [高阳 (B)](../USTC/25FaCompPhyBFinalGY.pdf) |
 
+[2021-2025 合集 (B)](../USTC/CompPhyB.pdf)
+
 ## 固体物理
 
 |年份|考试|
