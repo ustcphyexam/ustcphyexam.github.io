@@ -18,6 +18,7 @@ layout: single  # 单栏布局
 |2023秋| [未知老师](../USTC/23FaMechAMid.pdf) | [2023秋 (A)&(H)](../USTC/23FaMechAFinal.pdf) |
 |2024秋| [力学 A(L) 期中卷 I](../USTC/24FaMechALMid1.pdf)、[力学 A(L) 期中卷 II](../USTC/24FaMechALMid2.pdf)、[刘衍文 (H) 期中卷](../USTC/24FaMechHMid.pdf) | [2024秋 (A)&(H)](../USTC/24FaMechAFinal.pdf) |
 |2025秋| [刘衍文 (H)](../USTC/25FaMechHMid.pdf) | [2025 秋 (A)&(H)](../USTC/25FaMechAFinal.pdf) |
+|2026秋| [刘衍文 (H)](../USTC/26FaMechHMid.pdf) | 暂无 |
 
 
 ## 热学

@@ -56,7 +56,8 @@ layout: single  # 单栏布局
 |2022秋| [杨焕雄 (A)](../USTC/22FaQMAMidYHX.pdf) | [石名俊 (A)](../USTC/22FaQMAFinalSMJ.pdf) |
 |2023秋| 暂无 | [石名俊 (A)](../USTC/23FaQMAFinalSMJ.pdf)、[杨焕雄 (A)](../USTC/23FaQMAFinalYHX.pdf) |
 |2024秋| [石名俊 (A)](../USTC/24FaQMAMidSMJ.pdf)、[杨焕雄 (A)](../USTC/24FaQMAMidYHX.pdf) | [石名俊 (A)](../USTC/24FaQMAFinalSMJ.pdf)、[杨焕雄 (A)](../USTC/24FaQMAFinalYHX.pdf) |
-|2025秋| [易为 (B)](../USTC/25FaQMBMidYY.pdf) | [石名俊 (A)](../USTC/25FaQMAFinalSMJ.pdf)、 [郑炜,姚星灿 (A)](../USTC/25FaQMAFinalYXC.pdf)、 [易为 (B)](../USTC/25FaQMBFinalYY.pdf) |
+|2025秋| [易为 (B)](../USTC/25FaQMBMidYW.pdf) | [石名俊 (A)](../USTC/25FaQMAFinalSMJ.pdf)、 [郑炜,姚星灿 (A)](../USTC/25FaQMAFinalYXC.pdf)、 [易为 (B)](../USTC/25FaQMBFinalYW.pdf) |
+|2025秋| [易为 (B)](../USTC/26FaQMBMidYW.pdf) | 暂无 |
 
 
 ## 热力学与统计物理
