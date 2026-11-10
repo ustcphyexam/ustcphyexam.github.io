@@ -12,7 +12,7 @@ redirect_from:
 更新内容：
 
 - [2026秋量子力学 B 期中考试（易为）](../USTC/26FaQMBMidYW.pdf)
-- [2026秋量子力学 H 期中考试（刘衍文）](../USTC/26FaMechHMid.pdf)
+- [2026秋力学 H 期中考试（刘衍文）](../USTC/26FaMechHMid.pdf)
 - 修正了易为老师考试试卷命名.
 
 完整更新日志[点击查看](/log/).

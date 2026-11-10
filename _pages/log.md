@@ -9,7 +9,7 @@ layout: single  # 单栏布局
 #### 11.9 更新
 
 - [2026秋量子力学 B 期中考试（易为）](../USTC/26FaQMBMidYW.pdf)
-- [2026秋量子力学 H 期中考试（刘衍文）](../USTC/26FaMechHMid.pdf)
+- [2026秋力学 H 期中考试（刘衍文）](../USTC/26FaMechHMid.pdf)
 - 修正了易为老师考试试卷命名.
 
 ### 2026.10
@@ -39,7 +39,7 @@ layout: single  # 单栏布局
 
 #### 7.13 更新
 
-- [2026春电磁学 A 期末考试](../USTC/26SpEMAFinal.pdf)
+- [2026春电磁学 A 期末考试](../USTC/26SpEMAFinalPHJ.pdf)
 - 修复了 [2026春电磁学 H 期末考试（叶邦角）](../USTC/26SpEMHFinalYBJ.pdf) 链接 404 Not Found 问题.
 
 
@@ -69,15 +69,15 @@ layout: single  # 单栏布局
 
 #### 6.25 更新
 
-- [2026春固体物理期末考试](../USTC/26SpSSPFinal.pdf)
+- [2026春固体物理期末考试](../USTC/26SpSSPFinalZJ.pdf)
 - [2025秋原子物理 A 期末考试](../USTC/25FaAtomAFinal.pdf)、[2026春原子物理 A 期末考试选择题部分](../USTC/25SpAtomAFinal.pdf)
 
 
 #### 6.23 更新
 
 - 已有内容基本收录完成，创建更新日志.
-- [2026春天体力学与天体测量基础期末考试]((../USTC/26SpCMAMFinal.pdf)) 
-- [2026春热力学与统计物理 (B) 期中考试]((../USTC/25SpTDBMid.pdf))
+- [2026春天体力学与天体测量基础期末考试](../USTC/26SpCMAMFinal.pdf) 
+- [2026春热力学与统计物理 (B) 期中考试](../USTC/26SpTDBMid.pdf)
 - 最新版[数理方程历年真题](../USTC/MathPhy.pdf)
 - 一些[模拟电路试卷](/JuniorPhy/)，来自 QQ 群聊
 - 一些[固体物理试卷](/SeniorPhy/)、[量子力学试卷](/SeniorPhy/)、[热力学与统计物理试卷](/SeniorPhy/)，来自[我的科大](https://wdkd.feixu.site/)

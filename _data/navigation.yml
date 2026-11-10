@@ -26,5 +26,5 @@ main:
   - title: "数学通修"
     url: /Math/
   
-  - title: "招生/资格考"
-    url: /Entrance/
+  # - title: "招生/资格考"
+  #   url: /Entrance/
