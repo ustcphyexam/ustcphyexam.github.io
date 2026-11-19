@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-# 最后一次更新：2026.11.9
+# 最后一次更新：2026.11.19
 
 更新内容：
 
-- [2026秋量子力学 B 期中考试（易为）](../USTC/26FaQMBMidYW.pdf)
-- [2026秋力学 H 期中考试（刘衍文）](../USTC/26FaMechHMid.pdf)
-- 修正了易为老师考试试卷命名.
+- [2026秋量子场论期中考试（高道能）](../USTC/26FaQFT1MidGDN.pdf)
+- [2026秋力学 A 期中考试（刘斌 等）](../USTC/26FaMechAMid.pdf)
+- [2026秋光学 A 期中考试（王沛）](../USTC/26FaOpticsAMidWP.pdf)
 
 完整更新日志[点击查看](/log/).
 
@@ -73,6 +73,8 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 2024: 黎奉熙、陈联宇、吴竞翔、韩佳平、于世霆、LiClO$_4$、哈吉狗
 
 2025: 肖祖扬、李清臣、易林轩、李林泽、刘锟、邓心宇、汤少帅、邬子钺、吴天涵、胡光耀、王宇浩、林烟、蒋乐洋、马宏锟、贾淏麟、何杰凯
+
+2026: 邓栩韬
 
 *贡献名单并不完整，如果您对历年真题做出贡献欢迎联系[邮箱](mailto:ustcphyexam@163.com)，我们十分乐意将您加入贡献者名单.*
 

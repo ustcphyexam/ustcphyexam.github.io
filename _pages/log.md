@@ -2,9 +2,17 @@
 title: "更新日志"
 permalink: /log/
 layout: single  # 单栏布局
+toc: true
+toc_label: "时间"
 ---
 
 ### 2026.11
+
+#### 11.19 更新
+
+- [2026秋量子场论期中考试（高道能）](../USTC/26FaQFT1MidGDN.pdf)
+- [2026秋力学 A 期中考试（刘斌 等）](../USTC/26FaMechAMid.pdf)
+- [2026秋光学 A 期中考试（王沛）](../USTC/26FaOpticsAMidWP.pdf)
 
 #### 11.9 更新
 
